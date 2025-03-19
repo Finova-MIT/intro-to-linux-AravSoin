@@ -146,3 +146,20 @@ After successfully installing a Linux distro, create a write-up in your reposito
 ```
 
 Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
+
+
+
+
+
+# Proof of Completion
+
+## Name:
+Arav Soin
+
+## Registration Number:
+240911380
+
+## Screenshot of Terminal:
+![image](https://github.com/user-attachments/assets/227a3792-b789-4b1c-9a9f-8763aedf872e)
+
+
