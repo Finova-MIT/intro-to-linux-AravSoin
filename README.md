@@ -160,6 +160,5 @@ Arav Soin
 240911380
 
 ## Screenshot of Terminal:
-![image](https://github.com/user-attachments/assets/227a3792-b789-4b1c-9a9f-8763aedf872e)
 
 
